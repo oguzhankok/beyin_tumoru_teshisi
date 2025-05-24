@@ -8,4 +8,3 @@ NOT : Brain_Tumor klasörünün yeri bilgisayardan bilgisayara değişiklik gös
 doğru yere atıldığına veya koddaki klasör adresinin güncellenmesine dikkat edilmelidir.
 
 Oğuzhan KÖK - 193405045
-Alihan TAŞÇI -193405062
